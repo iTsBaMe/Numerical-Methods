@@ -1,0 +1,3 @@
+The secant Method is used to solve non-linear equations. This method always converges
+no matter the given initial conditions maybe. For this reason, Secant Method is much more
+popular than Newton Rhapson to find the root as Newton Rhapson fails if f'(xn) = 0.
