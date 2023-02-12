@@ -1,2 +1,2 @@
 # Numerical-Methods
-Numerical Analysis Algorithms
+Numerical Analysis Algorithms for Solution of Algebraic and Transcendental Equations
