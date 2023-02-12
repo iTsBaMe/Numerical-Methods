@@ -1,0 +1,6 @@
+Shooting Method for 2nd Order ODEs- The shooting method uses the same methods that were used in solving initial value
+problems. This is done by assuming initial values that would have been given if the
+ordinary differential equation were an initial value problem. The boundary value
+obtained is then compared with the actual boundary value. Using trial and error or
+some scientific approach, one tries to get as close to the boundary value as possible.
+This method is best explained by an example.
