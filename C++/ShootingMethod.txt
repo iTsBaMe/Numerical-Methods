@@ -3,4 +3,4 @@ problems. This is done by assuming initial values that would have been given if 
 ordinary differential equation were an initial value problem. The boundary value
 obtained is then compared with the actual boundary value. Using trial and error or
 some scientific approach, one tries to get as close to the boundary value as possible.
-This method is best explained by an example.
+The equation used in the code is d^2y/dx^2 = 2*y*dy/dx
