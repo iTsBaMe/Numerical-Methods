@@ -70,7 +70,7 @@ int main()
 
     if (c1 == 0 and c2 == 0)
     {
-        cout << U2[0] << " is the solution of the equation" << endl;
+        cout << U1[1] << ", " << U1[2] << ", " << U1[3] << " are the solutions of the equation";
     }
     else
     {
@@ -83,7 +83,7 @@ int main()
 
             cout << "-------------------------------------------------------------" << endl;
 
-            cout << setprecision(2) << U2[0] << " is not the solution of the equation" << endl;
+            cout << setprecision(2) << U1[1] << ", " << U1[2] << ", " << U1[3] << " is not the solution of the equation" << endl;
             cout << "We will now calculate U2[0] using the secant method" << endl;
             cout << "----------------------------------------------------" << endl;
 
@@ -124,7 +124,7 @@ int main()
             }
             cout << "\n";
             cout << "-------------------------------------------------------------" << endl;
-            cout << U2[0] << " is the solution of the equation";
+            cout << U1[1] << ", " << U1[2] << ", " << U1[3] << " are the solutions of the equation";
         }
     }
 }
